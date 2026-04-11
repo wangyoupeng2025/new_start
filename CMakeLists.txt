@@ -4,4 +4,6 @@ project(new_start)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(new_start main.cpp
-        test/helloC++.cpp)
+        test/helloC++.cpp
+        test/class_use/class_use01.h
+        test/class_use/class_day01.cpp)
