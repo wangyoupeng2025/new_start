@@ -12,4 +12,10 @@ add_executable(new_start main.cpp
         test/Inheritance_use/test02.h
         test/Inheritance_use/day02.h
         "test/Smart pointer/samrt_use.cpp"
-        "test/Smart pointer/test01.h")
+        "test/Smart pointer/test01.h"
+        test/stl_use/stl_use_test.cpp
+        test/stl_use/Vector_use.h
+        test/stl_use/map_use.h
+        test/stl_use/set_use.h
+        test/stl_use/list_and_deque_use.h
+        test/stl_use/day04.h)
