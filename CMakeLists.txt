@@ -18,4 +18,6 @@ add_executable(new_start main.cpp
         test/stl_use/map_use.h
         test/stl_use/set_use.h
         test/stl_use/list_and_deque_use.h
-        test/stl_use/day04.h)
+        test/stl_use/day04.h
+        test/lambda_use/action01.cpp
+        test/stl_suanfa/test_suanfa.cpp)
