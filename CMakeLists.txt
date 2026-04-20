@@ -20,4 +20,9 @@ add_executable(new_start main.cpp
         test/stl_use/list_and_deque_use.h
         test/stl_use/day04.h
         test/lambda_use/action01.cpp
-        test/stl_suanfa/test_suanfa.cpp)
+        test/stl_suanfa/test_suanfa.cpp
+        test/Move_Semantics/test01.cpp
+        test/template_use/create_template01.h
+        test/template_use/test01.cpp
+        test/Define_use/use_define.h
+        test/Define_use/test.c)
