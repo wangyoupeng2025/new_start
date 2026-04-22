@@ -25,4 +25,6 @@ add_executable(new_start main.cpp
         test/template_use/create_template01.h
         test/template_use/test01.cpp
         test/Define_use/use_define.h
-        test/Define_use/test.c)
+        test/Define_use/test.c
+        test/iostream_use/test.cpp
+        test/try_exception_use/test_use.cpp)
